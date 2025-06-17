@@ -219,7 +219,7 @@ const RenderCatalog = ()=>{
                   <p><span>${carType}</span></p>
                 </div>
                 <div class="car-image">
-                  <img style="border-radius: 20px;" src="assets/img/car/${img}.jpg" alt="Hyundai Santa Fe">
+                  <img style="border-radius: 20px;" src="../assets/img/car/${img}.jpg" alt="Hyundai Santa Fe">
                 </div>
                 <div class="car-list-items">
                   <ul>
